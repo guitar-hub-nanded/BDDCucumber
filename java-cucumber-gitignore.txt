@@ -1,0 +1,56 @@
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code project files
+.vscode/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Test output
+test-output/
+surefire-reports/
+cucumber-reports/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node dependencies (in case of frontend in repo)
+node_modules/
+
+# Environment files
+.env
+
+# GitHub files
+*.swp
